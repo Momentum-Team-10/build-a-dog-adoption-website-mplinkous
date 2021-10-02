@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+h1 {
+    background-color: #004175;
+    border-color: #89DEEF;
+    color: white;
+}
